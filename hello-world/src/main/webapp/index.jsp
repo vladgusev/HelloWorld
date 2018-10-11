@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>New Version JCI</h2>
+<h2>New Version XYZ</h2>
 </body>
 </html>
